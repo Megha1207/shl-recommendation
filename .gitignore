@@ -2,6 +2,9 @@ __pycache__/
 *.pyc
 *.pkl
 *.faiss
-.env
+*.index
+*.bin
+*.pt
 .venv/
+.env
 evaluation/query_cache.json
