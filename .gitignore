@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.faiss
+.env
+.venv/
+evaluation/query_cache.json
